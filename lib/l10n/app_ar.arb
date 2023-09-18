@@ -6,11 +6,11 @@
   "radio": "إذاعة",
   "settings": "إعدادات",
   "theme": "نمط",
-  "english": "English",
-  "arabic": "Arabic",
-  "light": "Light",
-  "dark": "Dark",
-  "language": "Language",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "light": "مضئ",
+  "dark": "ليلي",
+  "language": "لغة",
   "sura_name": "اسم السورة",
   "hadeth_name": "اسم الحديث"
 }

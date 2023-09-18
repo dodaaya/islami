@@ -36,7 +36,7 @@ class MyTheme {
         backgroundColor: Colors.transparent,
         elevation: 0,
         centerTitle: true,
-        iconTheme: IconThemeData(color: black)),
+        iconTheme: IconThemeData(color: yellowColor)),
     bottomNavigationBarTheme: BottomNavigationBarThemeData(
       selectedItemColor: yellowColor,
       unselectedItemColor: white,
